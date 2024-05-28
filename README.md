@@ -1,5 +1,7 @@
 [![MasterHead](https://go.courses/image/GoCoursesBlogHeaderPopularLanguage-1.jpg)
 
+-👋 Hi! I'm Mehmet Emin Güvercin.
+- 💻 A Software developer from Istanbul/Turkiye
 -🔍 A passionate **data analysis and machine learning enthusiast** currently in the learning phase.
 
 -💻 Proficient in **Python, C, and SQL** at intermediate level.
