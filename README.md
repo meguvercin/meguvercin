@@ -1,4 +1,6 @@
-align = "center">![MasterHead](https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif)
+<div align="center">
+  <img src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" alt="MasterHead" />
+</div>
 <h1 align="center">Hi 👋, I'm Mehmet Emin Güvercin.</h1>
 <h3 align="center">-💻 A Software developer from Istanbul/Turkiye</h3>
 
