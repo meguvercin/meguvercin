@@ -2,10 +2,6 @@
 <h1 align="center">Hi 👋, I'm Mehmet Emin Güvercin.</h1>
 <h3 align="center">-💻 A Software developer from Istanbul/Turkiye</h3>
 
--👋 Hi! I'm Mehmet Emin Güvercin.
-
--💻 A Software developer from Istanbul/Turkiye
-
 -🔍 A passionate **data analysis and machine learning enthusiast** currently in the learning phase.
 
 -💻 Proficient in **Python, C, and SQL** at intermediate level.
