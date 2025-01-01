@@ -1,4 +1,4 @@
-[![MasterHead]([https://go.courses/image/GoCoursesBlogHeaderPopularLanguage-1.jpg](https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif))
+[![MasterHead](https://go.courses/image/GoCoursesBlogHeaderPopularLanguage-1.jpg](https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif))
 
 -👋 Hi! I'm Mehmet Emin Güvercin.
 
