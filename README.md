@@ -6,7 +6,7 @@
 
 -🔍 A passionate **data analysis and machine learning enthusiast** currently in the learning phase.
 
--💻 Proficient in **Python, C++, and SQL** at intermediate level.
+-💻 Proficient in **Python, C#, and SQL** at intermediate level.
 
 -📊 I enjoy working with datasets to uncover meaningful insights and develop data-driven solutions.
 
