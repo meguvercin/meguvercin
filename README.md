@@ -2,19 +2,19 @@
   <img src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" alt="MasterHead" />
 </div>
 <h1 align="center">Hi 👋, I'm Mehmet Emin Güvercin.</h1>
-<h3 align="center">-💻 A Software developer from Istanbul/Turkiye</h3>
+<h3 align="center">-💻 A Software Engineer from Istanbul/Turkiye</h3>
 
--🔍 A passionate **data analysis and machine learning enthusiast** currently in the learning phase.
+- 🔍 Passionate about **data analysis and machine learning**, continuously improving my skills.
 
--💻 Proficient in **Python, C#, and SQL** at intermediate level.
-
--📊 I enjoy working with datasets to uncover meaningful insights and develop data-driven solutions.
-
--🤖 Actively learning to build and optimize machine learning models.
-
--🚀 Always eager to learn and explore new technologies.
-
--🌐 Open to collaborations and contributing to open-source projects as I grow my skills.
+- ⚙️ Experienced with **.NET, C#, Python, and SQL** at an intermediate level.
+  
+- 📊 Enjoy working with datasets to uncover meaningful insights and develop **data-driven solutions**.
+  
+- 🤖 Actively learning to **build and optimize machine learning models**.
+  
+- 🚀 Always eager to explore new technologies and improve myself.
+  
+- 🌐 Open to **collaborations** and contributing to open-source projects.  
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=meguvercin&label=Profile%20views&color=0e75b6&style=flat" alt="meguvercin" /> </p>
 
