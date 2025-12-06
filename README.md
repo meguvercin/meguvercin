@@ -4,7 +4,7 @@
 <h1 align="center">Hi 👋, I'm Mehmet Emin Güvercin.</h1>
 <h3 align="center">-💻 A Software Engineer from Istanbul/Turkiye</h3>
 
-- 🔍 Passionate about **data analysis and machine learning**, continuously improving my skills.
+- 🔍 Passionate about **software development and machine learning**, continuously improving my skills.
 
 - ⚙️ Experienced with **.NET, C#, Python, and SQL** at an intermediate level.
   
