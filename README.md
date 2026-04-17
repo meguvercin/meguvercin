@@ -6,7 +6,7 @@
 
 - 🔍 Passionate about **software development and machine learning**, continuously improving my skills.
 
-- ⚙️ Experienced with **.NET, C#, Python, and SQL** at an intermediate level.
+- ⚙️ Experienced with **.NET, C#, Java, Python, and SQL** at an intermediate level.
   
 - 📊 Enjoy working with datasets to uncover meaningful insights and develop **data-driven solutions**.
   
