@@ -1,20 +1,20 @@
 <div align="center">
   <img src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" alt="MasterHead" />
 </div>
-<h1 align="center">Hi 👋, I'm Mehmet Emin Güvercin.</h1>
-<h3 align="center">-💻 A Software Engineer from Istanbul/Turkiye</h3>
+<h1 align="center">Hi 👋, I'm Mehmet Emin Güvercin</h1>
+<h3 align="center">A Software Engineer | .NET | C# | Java | SQL</h3>
 
-- 🔍 Passionate about **software development and machine learning**, continuously improving my skills.
+- 🔍 Passionate about **backend development and software engineering**, continuously improving my skills in building reliable and scalable systems.
 
-- ⚙️ Experienced with **.NET, C#, Java, Python, and SQL** at an intermediate level.
+- ⚙️ Experienced with **.NET, C#, Java, Python, and SQL**, with hands-on interest in API development, database design, and backend architectures.
   
-- 📊 Enjoy working with datasets to uncover meaningful insights and develop **data-driven solutions**.
+- 🤖 Enjoy developing clean, maintainable, and efficient solutions for real-world software problems.
   
-- 🤖 Actively learning to **build and optimize machine learning models**.
+- 📦 Interested in RESTful APIs, system design, microservices, and data-driven backend applications.
   
-- 🚀 Always eager to explore new technologies and improve myself.
+- 🚀 Always eager to learn new technologies, strengthen my engineering mindset, and grow as a backend developer.
   
-- 🌐 Open to **collaborations** and contributing to open-source projects.  
+- 🌐 Open to collaborations, backend projects, and contributing to open-source work. 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=meguvercin&label=Profile%20views&color=0e75b6&style=flat" alt="meguvercin" /> </p>
 
