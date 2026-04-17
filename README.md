@@ -35,3 +35,15 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/meguvercin/meguvercin/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/meguvercin/meguvercin/output/github-contribution-grid-snake.svg">
 </picture>
+[![trophy](https://github-profile-trophy.vercel.app/?username=meguvercin)](https://github.com/ryo-ma/github-profile-trophy)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=meguvercin&show_icons=true&theme=tokyonight" alt="GitHub stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=meguvercin&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=meguvercin&theme=tokyonight&row=1&column=6" alt="Trophies" />
+</p>
